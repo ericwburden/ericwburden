@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+----
+
 [![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericwburden&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericwburden&theme=tokyonight&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
