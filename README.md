@@ -4,6 +4,7 @@ My name is Eric Burden. I'm a bit of a polyglot, who focuses on finding and usin
 
 #### :octocat: Notable repos ...
 
+- [https://github.com/ericwburden/trainr](https://github.com/ericwburden/trainr): An R package that provides a local, interactive R learning experience for end-users, with integrations into RStudio and straightforward extensibility.
 - [ericwburden/django-compose-app](https://github.com/ericwburden/django-compose-app): A Django app deployed using Docker Swarm. A branch of this application (dtd_requests_app) was deployed to support a call center to connect individuals to services in the Memphis, TN area during the early days of the COVID-19 pandemic. Another branch (keepcount) was proposed as an MVP for using websockets to maintain a distributed occupancy counter.
 - [ericwburden/advent_of_code_2020](https://github.com/ericwburden/advent_of_code_2020): Solutions to the Advent of Code puzzles for 2020 in R and Rust.
 - [ericwburden/advent_of_code_2021](https://github.com/ericwburden/advent_of_code_2021): Solutions to the Advent of Code puzzles for 2021 in Julia. Arguably a *much* better project setup than I had in 2020.
