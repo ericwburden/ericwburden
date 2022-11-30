@@ -16,7 +16,7 @@ My name is Eric Burden. I'm a bit of a polyglot, who focuses on finding and usin
 
 #### 🔭 I’m currently working on ...
 
-Learning Elm. I'm a big fan of the strongly-typed, functional-style paradigm (and I don't love JavaScript/TypeScript). Elm seems very promising for quickly developing MVPs of web applications, and I'm particularly interested in what an Elm frontend on a Rust [Tauri](https://tauri.studio/en/) would look like in terms of speed, security, and usability.
+Advent of Code for 2022! Also building up my ML fundamentals.
 
 #### 💬 I love to talk about ...
 
