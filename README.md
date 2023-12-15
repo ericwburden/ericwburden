@@ -24,7 +24,7 @@ How we use technology to serve people, especially in domains where advancement a
 
 #### 📫 How to reach me ...
 
-I'm on Twitter as [@ericburden](https://twitter.com/ericburden), and on [LinkedIn](https://www.linkedin.com/in/eric-burden-88773213/). I blog on my [personal site/portfolio](www.ericburden.work) and at [Dev.to](https://dev.to/ericwburden).
+I'm on Twitter as [@ericburden](https://twitter.com/ericburden), (more actively) on Mastodon as [@ericburden@techhub.social](https://techhub.social/@ericburden), and on [LinkedIn](https://www.linkedin.com/in/eric-burden-88773213/). I blog on my [personal site/portfolio](www.ericburden.work) and at [Dev.to](https://dev.to/ericwburden).
 
 <!--
 **ericwburden/ericwburden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
